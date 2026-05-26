@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * @param {string} year
+ * @param {string} date
  * @param {string[]} fromFormat
  * @param {string[]} toFormat
  *
